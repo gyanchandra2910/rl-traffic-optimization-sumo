@@ -168,4 +168,4 @@ python compare.py --results_dir results/
 
 ## References
 
-See report.tex for detailed mathematical formulations, MDP specification, and complete experimental methodology.
+See Traffic_Rl_Project(2).pdf for detailed mathematical formulations, MDP specification, and complete experimental methodology.
