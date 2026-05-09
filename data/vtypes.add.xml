@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+    <!-- Car: Standard passenger vehicle with realistic physics -->
+    <vType id="car" vClass="passenger" guiShape="passenger" length="5.0" accel="2.6" decel="4.5" maxSpeed="13.89" minGap="2.5" sigma="0.5" color="0,1,0"/>
+    
+    <!-- Bus: Larger, slower vehicle with realistic physics -->
+    <vType id="bus" vClass="bus" guiShape="bus" length="12.0" accel="1.2" decel="3.0" maxSpeed="11.11" minGap="3.0" sigma="0.3" color="1,0,0"/>
+
+</additional>
